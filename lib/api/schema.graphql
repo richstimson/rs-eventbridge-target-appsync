@@ -2,12 +2,23 @@ type Query {
 	noop: String
 }
 
+# type Mutation {
+#  	publishMsgFromEB(msg: String!): String! @aws_iam @aws_cognito_user_pools
+#  }
+
 type Mutation {
 	publishMsgFromEB(msg: String!): String! @aws_iam
 }
 
+# type Subscription {
+#  	onPublishMsgFromEb: String
+#  		@aws_cognito_user_pools
+#  		@aws_subscribe(mutations: ["publishMsgFromEB"])
+#  }
+
 type Subscription {
-	onPublishMsgFromEb: String
-		@aws_cognito_user_pools
-		@aws_subscribe(mutations: ["publishMsgFromEB"])
-}
+ 	onPublishMsgFromEb: String
+ 		@aws_subscribe(mutations: ["publishMsgFromEB"])
+ }
+
+		# @aws_api_key

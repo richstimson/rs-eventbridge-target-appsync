@@ -1,0 +1,500 @@
+   54  npm start
+   55  npm start
+   56  npm install react
+   57  npm start
+   58  npm start
+   59  npm start
+   60  npm start
+   61  npm start
+   62  npm start
+   63  npm start
+   64  npm start
+   65  npm start
+   66  npm start
+   67  npm start
+   68  npm start
+   69  npm start
+   70  npm start
+   71  npm start
+   72  npm start
+   73  npm start
+   74  npm start
+   75  npm start
+   76  npm start
+   77  cd ../scratchpad-expo
+   78  code .
+   79  npm start
+   80  npm start
+   81  cd ../locapp-11
+   82  code .
+   83  npm start
+   84  npm start
+   85  npm start
+   86  npm start
+   87  aws location list-device-positions --tracker-name MobileTracker
+   88  aws location list-device-positions --tracker-name MobileTracker
+   89  aws location list-device-positions --tracker-name MobileTracker
+   90  aws location list-device-positions --tracker-name MobileTracker
+   91  aws location list-device-positions --tracker-name MobileTracker
+   92  npm start
+   93  npm start
+   94  npm start
+   95  npm start
+   96  npm start
+   97  npm start
+   98  cd ../my-first-react-app/
+   99  code .
+  100  aws location list-device-positions --tracker-name MobileTracker
+  101  aws location list-device-positions --tracker-name MobileTracker
+  102  aws location list-device-positions --tracker-name MobileTracker
+  103  aws location list-device-positions --tracker-name MobileTracker
+  104  aws location list-device-positions --tracker-name MobileTracker
+  105  npm start
+  106  aws location list-device-positions --tracker-name MobileTracker
+  107  aws location list-device-positions --tracker-name MobileTracker
+  108  aws location list-device-positions --tracker-name MobileTracker
+  109  aws location list-device-positions --tracker-name MobileTracker
+  110  aws location list-device-positions --tracker-name MobileTracker
+  111  npm start
+  112  aws location list-device-positions --tracker-name MobileTracker
+  113  aws location list-device-positions --tracker-name MobileTracker
+  114  aws location list-device-positions --tracker-name MobileTracker
+  115  npm start
+  116  aws location list-device-positions --tracker-name MobileTracker
+  117  npm start
+  118  npm start
+  119  aws location list-device-positions --tracker-name MobileTracker
+  120  npm start
+  121  aws location list-device-positions --tracker-name MobileTracker
+  122  npm start
+  123  cd ../locapp-10
+  124  code .
+  125  npm start
+  126  cd ../locapp-11
+  127  npm start
+  128  npm start
+  129  npm start
+  130  aws location list-device-positions --tracker-name MobileTracker
+  131  cd ../
+  132  ls
+  133  cd scratchpad-expo-amplify/
+  134  ls
+  135  npm start
+  136  code .
+  137  cd ../locapp-11
+  138  code .
+  139  cd ../scratchpad-expo-amplify/
+  140  npm install aws-amplify @aws-amplify/react-native @react-native-community/netinfo @react-native-async-storage/async-storage react-native-get-random-values
+  141  npm start
+  142  npm install @aws-sdk/client-location
+  143  node -v
+  144  git status
+  145  npm start
+  146  git status
+  147  gitgo "Basic appsync connection - seems to be working but need to check"
+  148  ls
+  149  npm install @aws-sdk/client-location
+  150  aws location list-trackers
+  151  amplify status
+  152  amplify add auth
+  153  amplify push
+  154  npm start
+  155  npm start
+  156  aws list-device-positions --tracker-nane MobileTracker
+  157  aws location list-device-positions --tracker-nane MobileTracker
+  158  aws location list-device-positions --tracker-name MobileTracker
+  159  npm start
+  160  npm install react-native-get-random-values react-native-url-polyfill web-streams-polyfill
+  161  npm start
+  162  npm install react-native-get-random-values react-native-url-polyfill web-streams-polyfill
+  163  npm start
+  164  npm start
+  165  npm start
+  166  aws location list-device-positions --tracker-name MobileTracker
+  167  aws location list-device-positions --tracker-name MobileTracker
+  168  aws location list-device-positions --tracker-name MobileTracker
+  169  aws location list-device-positions --tracker-name MobileTracker
+  170  aws location list-device-positions --tracker-name MobileTracker
+  171  aws location list-device-positions --tracker-name MobileTrackerr
+  172  aws location list-device-positions --tracker-name MobileTracker
+  173  aws location list-device-positions --tracker-name MobileTracker
+  174  aws location list-device-positions --tracker-name MobileTracker
+  175  aws location list-device-positions --tracker-name MobileTracker
+  176  aws location list-device-positions --tracker-name MobileTracker
+  177  aws location list-device-positions --tracker-name MobileTracker
+  178  aws location list-device-positions --tracker-name MobileTracker
+  179  aws location list-device-positions --tracker-name MobileTracker
+  180  aws location list-device-positions --tracker-name MobileTracker
+  181  aws location list-device-positions --tracker-name MobileTracker
+  182  aws location list-device-positions --tracker-name MobileTracker
+  183  aws location list-device-positions --tracker-name MobileTracker
+  184  aws location list-device-positions --tracker-name MobileTracker
+  185  aws location list-device-positions --tracker-name MobileTracker
+  186  aws location list-device-positions --tracker-name MobileTrackerr
+  187  aws location list-device-positions --tracker-name MobileTracker
+  188  npm start
+  189  aws location list-device-positions --tracker-name MobileTracker
+  190  aws location list-device-positions --tracker-name MobileTracker
+  191  aws location list-device-positions --tracker-name MobileTracker
+  192  aws location list-device-positions --tracker-name MobileTracker
+  193  aws location list-device-positions --tracker-name MobileTracker
+  194  aws location list-device-positions --tracker-name MobileTracker
+  195  aws location list-device-positions --tracker-name MobileTracker
+  196  aws location list-device-positions --tracker-name MobileTracker
+  197  aws location list-device-positions --tracker-name MobileTracker
+  198  aws location list-device-positions --tracker-name MobileTracker
+  199  aws location list-device-positions --tracker-name MobileTracker
+  200  aws location list-device-positions --tracker-name MobileTracker
+  201  aws location list-device-positions --tracker-name MobileTracker
+  202  aws location list-device-positions --tracker-name MobileTracker
+  203  aws location list-device-positions --tracker-name MobileTracker
+  204  aws location list-device-positions --tracker-name MobileTracker
+  205  aws location list-device-positions --tracker-name MobileTracker
+  206  aws location list-device-positions --tracker-name MobileTracker
+  207  aws location list-device-positions --tracker-name MobileTracker
+  208  aws location list-device-positions --tracker-name MobileTracker
+  209  aws location list-device-positions --tracker-name MobileTracker
+  210  aws location list-device-positions --tracker-name MobileTracker
+  211  aws location list-device-positions --tracker-name MobileTracker
+  212  aws location list-device-positions --tracker-name MobileTracker
+  213  aws location list-device-positions --tracker-name MobileTracker
+  214  aws location list-device-positions --tracker-name MobileTracker
+  215  aws location list-device-positions --tracker-name MobileTracker
+  216  aws location list-device-positions --tracker-name MobileTracker
+  217  aws location list-device-positions --tracker-name MobileTracker
+  218  aws location list-device-positions --tracker-name MobileTracker
+  219  aws location list-device-positions --tracker-name MobileTracker
+  220  aws location list-device-positions --tracker-name MobileTracker
+  221  aws location list-device-positions --tracker-name MobileTracker
+  222  aws location list-device-positions --tracker-name MobileTracker
+  223  aws location list-device-positions --tracker-name MobileTracker
+  224  aws location list-device-positions --tracker-name MobileTracker
+  225  aws location list-device-positions --tracker-name MobileTracker
+  226  aws location list-device-positions --tracker-name MobileTracker
+  227  aws location list-device-positions --tracker-name MobileTracker
+  228  aws location list-device-positions --tracker-name MobileTracker
+  229  aws location list-device-positions --tracker-name MobileTracker
+  230  aws location list-device-positions --tracker-name MobileTracker
+  231  aws location list-device-positions --tracker-name MobileTracker
+  232  aws location list-device-positions --tracker-name MobileTracker
+  233  aws location list-device-positions --tracker-name MobileTracker
+  234  aws location list-device-positions --tracker-name MobileTracker
+  235  aws location list-device-positions --tracker-name MobileTracker
+  236  aws location list-device-positions --tracker-name MobileTracker
+  237  aws location list-device-positions --tracker-name MobileTracker
+  238  aws location list-device-positions --tracker-name MobileTracker
+  239  aws location list-device-positions --tracker-name MobileTracker
+  240  aws location list-device-positions --tracker-name MobileTracker
+  241  aws location list-device-positions --tracker-name MobileTracker
+  242  aws location list-device-positions --tracker-name MobileTracker
+  243  aws location list-device-positions --tracker-name MobileTracker
+  244  aws location list-device-positions --tracker-name MobileTracker
+  245  aws location list-device-positions --tracker-name MobileTracker
+  246  aws location list-device-positions --tracker-name MobileTracker
+  247  aws location list-device-positions --tracker-name MobileTracker
+  248  aws location list-device-positions --tracker-name MobileTracker
+  249  aws location list-device-positions --tracker-name MobileTracker
+  250  aws location list-device-positions --tracker-name MobileTracker
+  251  aws location list-device-positions --tracker-name MobileTracker
+  252  aws location list-device-positions --tracker-name MobileTracker
+  253  aws location list-device-positions --tracker-name MobileTracker
+  254  npm start
+  255  npm start
+  256  aws location list-device-positions --tracker-name MobileTracker
+  257  aws location list-device-positions --tracker-name MobileTracker
+  258  aws location list-device-positions --tracker-name MobileTracker
+  259  npm start
+  260  gitgo -m "Working tracker location updates (SampleTime fixed)"
+  261  npm start
+  262  npm start
+  263  gitgo "Tracker working, marker moving, tidied up"
+  264  npm start
+  265  cd assets/
+  266  ls
+  267  gitgo "Added ice cream van icon"
+  268  npm start
+  269  npm start
+  270  npm start
+  271  git status
+  272  git reset
+  273   git checkout .
+  274  git status
+  275  cd ../../my-first-react-app/
+  276  code .
+  277  git reset
+  278  git checkout .
+  279  git status
+  280  npm start
+  281  git reset
+  282  git checkout .
+  283  npm start
+  284  npm start
+  285  cd ../locapp-11
+  286  rm assets/ice-cream-truck2.png 
+  287  gitgo "Ice cream van showing consistently.."
+  288  npm start
+  289  npm i react-native-paper
+  290  npm start
+  291  npm start
+  292  gitgo "Button working, debug tidied"
+  293  gitgo "Toggle updates via button"
+  294  npm start
+  295  git status
+  296  npm start
+  297  npm start
+  298  npm start
+  299  npm start
+  300  gitgo "Created first geofence: rs-geofence-1 in rs-geofence-collection"
+  301  aws location list-geofences
+  302  aws location list-geofences --collection-name rs-geofence-collection
+  303  npm start
+  304  aws location list-geofences --collection-name rs-geofence-collection
+  305  npm start
+  306  git log
+  307  gitgo "Fixed initial FAB icon display and changed geofence radius"
+  308  mv App.js App.js.location-updates
+  309  npm start
+  310  npm install react-native-maps
+  311  npm start
+  312  npm start
+  313  npm start
+  314  mv App.js App.js.bak
+  315  npm start
+  316  mv App.js App.js.BasicMap
+  317  mv App.js.bak App.js
+  318  npm start
+  319  npm start
+  320  npm start
+  321  aws location update-tracker --tracker-name MobileTracker --event-bridge-enabled
+  322  aws location update-tracker --tracker-name MobileTracker --event-bridge-enabled
+  323  aws location update-tracker help
+  324  aws location update-tracker --tracker-name MobileTracker --event-bridge-enabled
+  325  aws location list-device-positions --tracker-name MobileTracker
+  326  aws location list-geofences
+  327  aws location list-geofences --collection-name rs-geofence-collection
+  328  aws location help
+  329  aws location batch-evaluate-geofences
+  330  aws location batch-evaluate-geofences --collection-name rs-geofence-collection --device-position-updates
+  331  aws location batch-evaluate-geofences help
+  332  npm start
+  333  npm start
+  334  npm start
+  335  npm start
+  336  gitgo "Transparent geofence circle"
+  337  mv App.js App.js.circle
+  338  mv App.js.location-updates App.js
+  339  npm start
+  340  npm start
+  341  npm start
+  342  gitgo "Working geofence (tracker linked to geofence collection), Tracker>EventBridge>SMS>Email"
+  343  npm start
+  344  aws location list-trackers
+  345  aws location -help
+  346  aws location -h
+  347  aws location --help
+  348  npm start
+  349  npm start
+  350  npm start
+  351  npm start
+  352  npm start
+  353  aws location update-tracker --tracker-name MyTracker --event-bridge-enabled
+  354  aws location update-tracker help
+  355  gitgo "Add updateTrackerCommand but this doesn't work for unauth identities"
+  356  npm start
+  357  npm install @aws-sdk/client-sns
+  358  npm install @aws-sdk/client-sns
+  359  npm install @aws-sdk/client-sns
+  360  npm start
+  361  npm start
+  362  npm start
+  363  npm start
+  364  npm start
+  365  npm start
+  366  npm start
+  367  git reset & git checkout .
+  368  cp App.js package.json ../-backup-files/
+  369  git clean -fdx
+  370  npm install
+  371  amplify init
+  372  amplify status
+  373  npx expo start
+  374  git revert 733b6dd
+  375  mv App.js App.js.bak
+  376  git revert 733b6dd
+  377  git checkout 733b6dd App.js
+  378  aws location list-device-positions --tracker-name MobileTracker
+  379  npx expo start
+  380  aws location list-device-positions --tracker-name MobileTracker
+  381  amplify status
+  382  amplify auth
+  383  amplify add auth
+  384  amplify push
+  385  npx expo start
+  386  amplify update api
+  387  npx expo start
+  388  npx expo start
+  389  git status
+  390  mv App.js App.js.snsClient
+  391  git checkout App.js
+  392  git status
+  393  mv package.json package.json.snsClient
+  394  mv package-lock.json package-lock.json.bak
+  395  git checkout package.json
+  396  npm start
+  397  amplify status
+  398  amplify add api
+  399  amplify push
+  400  amplify status
+  401  amplify add function
+  402  cd ./amplify/backend/function/updateLocationLocapp11/src
+  403  npm install aws-sdk
+  404  amplify push
+  405  amplify push
+  406  amplify push
+  407  npm start
+  408  cd ../../../..
+  409  cd ..
+  410  cp ../locapp-10/src/device.js ./src
+  411  npm start
+  412  cd ../locapp-10
+  413  code .
+  414  aws location list-device-positions --tracker-name MobileTracker
+  415  npm start
+  416  cd ../locapp-11
+  417  code .
+  418  npm start
+  419  aws location list-device-positions --tracker-name MobileTracker
+  420  aws location list-device-positions --tracker-name MobileTracker
+  421  npm start
+  422  gitgo "Device forced to edf95663-1824-46ca-b37c-40d6e6ec8853. Works OK as long as that device ID is in DynamoDB"
+  423  npm start
+  424  npm start
+  425  gitgo "Subscriptions to onCreateDevice & onUpdateDevice work. Also work from mutations created in Appsync console"
+  426  npm start
+  427  amplify codegen
+  428  amplify update api
+  429  amplify update api
+  430  amplify push
+  431  amplify pull
+  432  amplify push
+  433  amplify push
+  434  amplify push
+  435  amplify push
+  436  aws location list-device-positions --tracker-name MobileTracker
+  437  aws location list-device-positions --tracker-name MobileTracker
+  438  amplify push
+  439  npm start
+  440  amplify push
+  441  amplify push
+  442  amplify push
+  443  amplify push
+  444  amplify push
+  445  amplify push
+  446  amplify push
+  447  amplify push
+  448  amplify push
+  449  amplify push
+  450  amplify push
+  451  amplify push
+  452  amplify push
+  453  amplify add function
+  454  amplify update api
+  455  amplify add function
+  456  amplify add function
+  457  amplify push
+  458  amplify add function
+  459  amplify push
+  460  aws iam list-users
+  461  aws iam list-roles
+  462  aws iam list-users
+  463  npm start
+  464  npm start
+  465  npm start
+  466  npm start
+  467  npm start
+  468  amplify push
+  469  npm start
+  470  npm start
+  471  Amplify.configure(awsConfig, {
+  472      ssr: true,
+  473      API: {
+  474          GraphQL: {
+  475              headers: async () => {
+  476                  const idToken = (await fetchAuthSession()).tokens?.idToken?.toString();
+  477                  return {
+  478                      Authorization: idToken,
+  479                  };
+  480              },
+  481          },
+  482      },
+  483  npm start
+  484  cd ..
+  485  ls
+  486  mkdir eventbridge-target-appsync
+  487  cd eventbridge-target-appsync/
+  488  git clone https://github.com/focusOtter/eventbridge-target-appsync.git
+  489  ls
+  490  mv eventbridge-target-appsync/* .
+  491  ls
+  492  rmdir eventbridge-target-appsync/
+  493  cd eventbridge-target-appsync/
+  494  ls
+  495  ls -als
+  496  cd ../..
+  497  rm -fr eventbridge-target-appsync/
+  498  git clone https://github.com/focusOtter/eventbridge-target-appsync.git
+  499  cd eventbridge-target-appsync/
+  500  code .
+  501  cd lib/api
+  502  npm i
+  503  npx @aws-amplify/cli codegen add
+  504  cd ../..
+  505  npx aws-cdk deploy --profile amplify-dev5
+  506  amplify console
+  507  npm i @aws-cdk/aws-cognito-identitypool-alpha
+  508  npm i constructs
+  509  npm start
+  510  npx @aws-amplify/cli codegen add
+  511  npx @aws-amplify/cli codegen
+  512  npx aws-cdk deploy --profile amplify-dev5
+  513  git remote rename origin upstream
+  514  git remote add origin git@github.com:richstimson/rs-eventbridge-target-appsync.git
+  515  git fetch origin
+  516  git push origin
+  517  git status
+  518  cd lib/api/src/
+  519  ls
+  520  cd graphql/
+  521  ls
+  522  cd ..
+  523  cd ..
+  524  ls
+  525  mv schema.graphql schema.graphql.user-pool-mutation
+  526  git checkout HEAD schema.graphql
+  527  git status
+  528  cd ../..
+  529  pwd
+  530  git checkout HEAD package.json
+  531  ls
+  532  git status
+  533  gitgo "No changes from fork - working EB->Appsync console subscription (When logged in to user pool)"
+  534  ls ~/.bash_profile 
+  535  cat ~/.bash_profile 
+  536  git push origin
+  537  nano ~/.bash_profile 
+  538  cd ~
+  539  pwd
+  540  cd /d/src/eventbridge-target-appsync
+  541  source ~/.bash_profile 
+  542  gitgo-origin 
+  543  cd lib/api/src/
+  544  ls
+  545  cd graphql/
+  546  ls
+  547  cd ..
+  548  ls
+  549  cd ..
+  550  ls
+  551  cp schema.graphql schema.graphql.user-pool-mutation 
+  552  history
+  553  history > temp_history.txt

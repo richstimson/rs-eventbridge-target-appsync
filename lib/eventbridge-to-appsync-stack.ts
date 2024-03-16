@@ -19,7 +19,7 @@ export class EventbridgeToAppsyncStack extends cdk.Stack {
 		const cfnAPI = api.node.defaultChild as CfnGraphQLApi
 
 		const eventBridge = createEventBridge(this, {
-			busName: 'eb-appsync-bus',
+			busName: 'eb-appsync-bus2',
 			appsyncApiArn: api.arn,
 			appsyncEndpointArn: cfnAPI.attrGraphQlEndpointArn,
 			graphQlOperation: publishMsgFromEB,
